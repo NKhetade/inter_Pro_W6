@@ -1,0 +1,5 @@
+Cluster,customer_count,average_tenure,average_monthly_charges,average_total_charges,churn_rate_percent
+0,1696,10.28,31.78,303.82,24.76
+1,1904,59.53,93.31,5548.65,15.39
+2,1159,53.59,34.92,1836.58,5.0
+3,2273,15.45,80.79,1252.82,48.31
