@@ -10,18 +10,16 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 Place `WA_Fn-UseC_-Telco-Customer-Churn.csv` beside the notebook.
 
 ## Files
-- `Week_6_Customer_Churn_Capstone.ipynb` — complete interactive workflow.
-- `Week_6_Capstone_Report.docx` — detailed report template.
-- `requirements.txt` — dependencies.
+- `Customer_Churn_Capstone_Week6.ipynb` — complete interactive workflow.
+- `Week6_report.docx` — detailed report template.
 - `README.md` — setup and run instructions.
 - `outputs/` and `visualizations/` — created after notebook execution.
 
 ## Run
-1. Install: `pip install -r requirements.txt`
-2. Download the dataset and place the CSV beside the notebook.
-3. Open the notebook in Jupyter or Google Colab.
-4. Run all cells.
-5. Use generated files in `outputs/` and `visualizations/` to complete the report.
+1. Download the dataset and place the CSV beside the notebook.
+2. Open the notebook in Jupyter or Google Colab.
+3. Run all cells.
+4. Use generated files in `outputs/` and `visualizations/` to complete the report.
 
 ## Methods
 - Cleaning and feature engineering with pandas
